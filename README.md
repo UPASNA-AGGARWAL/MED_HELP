@@ -1,4 +1,7 @@
 # WE CARE: Your Path to Mental Well-being Begins Here
+
+<img width="1366" alt="Screenshot 2024-06-19 at 9 32 59 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/d7f4fa5a-758a-4cbe-83a6-e8c40237723a">
+
 # Aim
 To foster mental well-being through a user-friendly web application that offers various features to assess, support, and enhance mental health.
 
@@ -38,6 +41,7 @@ Description: A friendly quiz designed to help users understand their mental stat
 
 <img width="455" alt="Screenshot 2024-06-19 at 9 32 40 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/c93935f3-7b0f-4f89-9747-4909236dc75d">
 
+## Result of Quiz on HomePage
 <img width="1366" alt="Screenshot 2024-06-19 at 9 32 59 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/d7f4fa5a-758a-4cbe-83a6-e8c40237723a">
 
 # Chatbot
