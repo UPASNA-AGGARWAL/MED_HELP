@@ -50,20 +50,23 @@ Description: Users can book and attend video consultations with doctors, providi
 
 <img width="749" alt="Screenshot 2024-06-19 at 9 33 44 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/f764469d-cc46-43db-8e78-49a00fe1c533">
 
+<img width="938" alt="Screenshot 2024-06-19 at 9 34 04 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/ca18eb18-ec82-4e92-ae9d-5d00ad24655e">
+
 # Music for Relaxation
 Description: A feature that allows users to listen to soothing music to help them relax and reduce stress.
 
-<img width="938" alt="Screenshot 2024-06-19 at 9 34 04 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/ca18eb18-ec82-4e92-ae9d-5d00ad24655e">
+<img width="868" alt="Screenshot 2024-06-19 at 9 34 32 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/bfcd83b1-a6a9-44f9-8ec4-eb42a876932c">
 
 # Yoga Tutorials
 Description: Simple yoga tutorials to guide users through easy poses, promoting physical and mental wellness.
 
-<img width="868" alt="Screenshot 2024-06-19 at 9 34 32 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/bfcd83b1-a6a9-44f9-8ec4-eb42a876932c">
+<img width="688" alt="Screenshot 2024-06-19 at 9 34 55 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/261169f5-f597-411a-931d-4022d8ea583d">
 
 # Movie Recommendations
 Description: Curated mood-uplifting movie recommendations to help improve users' mental state.
 
-<img width="688" alt="Screenshot 2024-06-19 at 9 34 55 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/261169f5-f597-411a-931d-4022d8ea583d">
+
+<img width="817" alt="Screenshot 2024-06-19 at 9 35 18 PM" src="https://github.com/UPASNA-AGGARWAL/MED_HELP/assets/120074587/b0890e06-8aea-4580-8922-138b50b03355">
 
 # E-commerce for Medicines
 Description: An online store where users can purchase medicines at cost price by submitting their doctor's prescription, ensuring affordable access to necessary medications.
